@@ -1,0 +1,32 @@
+.form-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
+  
+.register-form {
+  border: 1px solid white;
+  padding: 30px;
+  width: 30%;
+  height: 100%;
+  background-color: white;
+  position: absolute;
+  text-align: center;
+  right: 0;
+}
+
+.img-logooo {
+  width: 100px;
+  height: 100px;
+}
+
+.register-form h3 {
+  margin-top: 50px;
+}
+
+.back-image{
+  display: flex;
+  width: 100%;
+  height: 100%;
+}
